@@ -1,0 +1,11 @@
+Model Information:
+* title:	Incubator
+* source:	https://sketchfab.com/3d-models/incubator-b0dfcacde6694dc4b37b8b05459f7d0f
+* author:	Odlab (https://sketchfab.com/Odlab)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Incubator" (https://sketchfab.com/3d-models/incubator-b0dfcacde6694dc4b37b8b05459f7d0f) by Odlab (https://sketchfab.com/Odlab) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

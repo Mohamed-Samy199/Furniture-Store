@@ -3,6 +3,7 @@ import { Link } from 'react-router-dom'
 import Chat from '../Chat/Chat'
 import ModelView from '../ModelView'
 import GlobeScene from './GlobeModel'
+import ScrollGallery from '../ScrollGallery/ScrollGallery'
     // import ModelView from '.'
 
 
@@ -37,6 +38,8 @@ export default function Home() {
       </div>
     </div>
   
+
+    <ScrollGallery />
   </>
   
   

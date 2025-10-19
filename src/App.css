@@ -63,6 +63,41 @@ body{
   border-radius: 1rem;
   border-color: #2c3e50 !important;
 }
+body {
+  background: radial-gradient(circle at center, #0f0f0f 20%, #000000 100%);
+  /* color: white;
+  font-family: "Inter", sans-serif; */
+  overflow-x: hidden;
+}
+
+.scroll-gallery {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 120px;
+  padding: 200px 0;
+  position: relative;
+}
+
+.photo {
+  perspective: 1000px;
+  transform-style: preserve-3d;
+}
+
+.photo img {
+  width: 480px;
+  height: 320px;
+  object-fit: cover;
+  border-radius: 20px;
+  box-shadow: 0 20px 80px rgba(0, 0, 0, 0.5);
+  transform: rotateY(5deg) rotateX(5deg);
+  transition: transform 0.8s ease, box-shadow 0.8s ease;
+}
+
+.photo img:hover {
+  transform: rotateY(0deg) rotateX(0deg) scale(1.05);
+  box-shadow: 0 30px 100px rgba(255, 255, 255, 0.2);
+}
 
 
 
